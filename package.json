@@ -1,0 +1,25 @@
+{
+  "name": "tigen",
+  "version": "1.0.0",
+  "description": "generating titanium samples",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azurethi/TiGen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azurethi/TiGen/issues"
+  },
+  "homepage": "https://github.com/Azurethi/TiGen#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
